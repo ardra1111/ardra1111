@@ -1,8 +1,6 @@
-##  Ardra Ajay - 
-
--  **👋 Hi there!**
+##  **👋 Hi there!**
   
-   I'm Ardra Ajay, an aspiring AI and Data Science enthusiast fueled by curiosity and a passion for uncovering hidden insights in data.
+                  **I'm Ardra Ajay, a Machine Learning Engineer driven by a passion for unlocking the potential of AI to solve real-world problems.**
    
 -  **👀 I'm fascinated by:**
 
