@@ -5,7 +5,7 @@
 
 -  **👀 I'm fascinated by:**
 
-   The potential of Aartificial Intelligence to revolutionize various industries and solve real-world problems. 
+   The potential of Artificial Intelligence to revolutionize various industries and solve real-world problems. 
    The beauty of data visualization in transforming complex information into compelling stories.
    The power of machine learning to unlock patterns and make data-driven decisions.
   
