@@ -1,7 +1,7 @@
 ##  Ardra Ajay - BTech in AI & Data Science 
 
 -  **👋 Hi there!**
--     I'm Ardra Ajay, an aspiring AI and Data Science enthusiast fueled by curiosity and a passion for uncovering hidden insights in data. 
+     I'm Ardra Ajay, an aspiring AI and Data Science enthusiast fueled by curiosity and a passion for uncovering hidden insights in data. 
 -  **👀 I'm fascinated by:**
 
         The potential of AI to revolutionize various industries and solve real-world problems. 
