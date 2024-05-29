@@ -1,6 +1,5 @@
 ##  **👋 Hi there! I'm Ardra Ajay**
-  
-   **A Machine Learning Engineer driven by a passion for unlocking the potential of AI to solve real-world problems.**
+  **A Machine Learning Engineer driven by a passion for unlocking the potential of AI to solve real-world problems.**
    
 -  **👀 I'm fascinated by:**
 
