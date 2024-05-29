@@ -1,4 +1,4 @@
-##  👋 Hi there!
+<h1 align="center"> Hi there👋 </h1>
 
 **I'm Ardra Ajay a Data Scientist driven by a passion for unlocking the potential of Artificial Intelligence to solve real-world problems.**    
 
