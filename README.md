@@ -5,14 +5,14 @@
 
 -  **👀 I'm fascinated by:**
 
-   The potential of AI to revolutionize various industries and solve real-world problems. 
+   The potential of Aartificial Intelligence to revolutionize various industries and solve real-world problems. 
    The beauty of data visualization in transforming complex information into compelling stories.
    The power of machine learning to unlock patterns and make data-driven decisions.
   
 -  **🌱 Currently, I'm:**
 
    Sharpening my skills in Python, deep learning frameworks, and data analysis techniques.
-   Gearing up for exciting projects that leverage the power of AI and Data Science.
+   Gearing up for exciting projects that leverage the power of Artificial Intelligence and Data Science.
    Continuously learning and exploring new frontiers in this ever-evolving field.
   
 - **🤝 Wanna Team up?** 
