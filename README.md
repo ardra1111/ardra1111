@@ -1,4 +1,4 @@
-##  Ardra Ajay - BTech in Artificial Intelligence  & Data Science 
+##  Ardra Ajay - 
 
 -  **👋 Hi there!**
   
@@ -25,7 +25,7 @@
 -  **📫 Reach out!**
 
     Let's connect and explore the wonders of AI and Data Science together. 
-    LinkedIn : https://www.linkedin.com/in/ardra-ajay/
+    [https://www.linkedin.com/in/ardra-ajay/](https://www.linkedin.com/in/ardra-ajay/)
   
 -  **😄 Pronouns:** 
    
