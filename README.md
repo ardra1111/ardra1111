@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there👋 I'm Ardra Ajay </h1>
 
-<h3 align="center"> A Data Scientist driven by a passion for unlocking the potential of Artificial Intelligence to solve real-world problems.</h3>   
+<h3 align="center"> A Data Scientist passionate about solving real-world problems with AI.</h3>   
 
 
 -  **👀 I'm fascinated by:**
