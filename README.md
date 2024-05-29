@@ -23,7 +23,7 @@
 
 -  **📫 Reach out!**
 
-    Let's connect and explore the wonders of AI and Data Science together:
+    Let's connect and explore the wonders of AI and Data Science together. 
     LinkedIn : https://www.linkedin.com/in/ardra-ajay/
   
 -  **😄 Pronouns:** 
