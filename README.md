@@ -32,7 +32,7 @@
 
 -  **⚡ Fun fact:**
 
-   I can enter the code zone for hours, fueled by pure problem-solving passion and the satisfaction of a bug squashed! 
+   Hours can vanish while I'm deep in the code zone, completely absorbed by the challenge of debugging.  But the frustration melts away when the project finally clicks into place, and it's the most satisfying feeling!
 
 <!---
 ardra1111/ardra1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
