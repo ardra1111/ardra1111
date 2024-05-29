@@ -1,5 +1,5 @@
-##  **👋 Hi there! I'm Ardra Ajay**
-**A Machine Learning Engineer driven by a passion for unlocking the potential of AI to solve real-world problems.**    
+##  **👋 Hi there!**
+** I'm Ardra Ajay a Machine Learning Engineer driven by a passion for unlocking the potential of AI to solve real-world problems.**    
 
 
 -  **👀 I'm fascinated by:**
@@ -12,11 +12,11 @@
 
    Sharpening my skills in Python, deep learning frameworks, and data analysis techniques.
    Gearing up for exciting projects that leverage the power of AI and data science.
-   Constantly learning and exploring new frontiers in this ever-evolving field.
+   Continuously learning and exploring new frontiers in this ever-evolving field.
   
 - **🤝 Wanna Team up?** 
 
-   Teaming up with fellow AI and Data Science enthusiasts to tackle challenging projects.
+   I'm always open to teaming up with fellow Machine Learning enthusiasts on challenging projects.
    Contributing to open-source initiatives that make a positive impact.
    Learning from experienced professionals and mentors in the field.
 
