@@ -3,7 +3,7 @@
 <h3 align="center"> A Data Scientist passionate about solving real-world problems with AI.</h3>   
 
 
--  **👀 I'm fascinated by:**
+-  **🌟 I'm fascinated by:**
 
    The potential of Artificial Intelligence to revolutionize various industries and solve real-world problems. 
    The beauty of data visualization in transforming complex information into compelling stories.
@@ -21,15 +21,16 @@
    Contributing to open-source initiatives that make a positive impact.
    Learning from experienced professionals and mentors in the field.
   
--  **😄 Pronouns:** 
-   
-    She/Her
+
 
 -  **✨️ Fun fact:**
 
    Hours can vanish while I'm deep in the code zone, completely absorbed by the challenge of debugging.  But the frustration melts away when the project finally clicks into place, and it's the most satisfying feeling!
+   
 
-
+-  **🫧 Pronouns:** 
+   
+    She/Her
 
 
 <h3 align="left">Languages and Tools:</h3>
