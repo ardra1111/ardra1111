@@ -25,7 +25,7 @@
    
     She/Her
 
--  **⚡ Fun fact:**
+-  **✨️ Fun fact:**
 
    Hours can vanish while I'm deep in the code zone, completely absorbed by the challenge of debugging.  But the frustration melts away when the project finally clicks into place, and it's the most satisfying feeling!
 
